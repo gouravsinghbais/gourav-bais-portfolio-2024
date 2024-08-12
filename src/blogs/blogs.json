@@ -1,10 +1,10 @@
 [
     {
       "id": "example",
-      "title": "Example Blog Post ww",
-      "description": "This is an example blog post.his is an example blog post.",
-      "image": "../blog_img/marketing-young-cute-business-lady-striped-shirt-office-showing-raising-results-1-340x250.jpg",
-      "fileName": "example.md",
+      "title": "Build Your Own Text-to-Speech System with Python and Comet ML",
+      "description": "A hands-on guide to creating your text-to-speech system",
+      "image": "../blog_img/Featured_Image_TTS.jpg",
+      "fileName": "Build Your Own Text-to-Speech System with Python and Comet ML.md",
       "pin": true
     },
     {
