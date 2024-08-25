@@ -1,7 +1,7 @@
 # Build Your Own Text-to-Speech System with Python and Comet ML
 A hands-on guide to creating your text-to-speech system
 
-![Featured Image](https://imgur.com/AKFkCdd.png)
+![Featured Image](https://i.imgur.com/Br3vHQp.jpg)
 
 Imagine giving a text a voice and transforming words into a natural speech. In the realm of [Natural Language Processing (NLP)](https://medium.com/r/?url=https%3A%2F%2Fwww.comet.com%2Fsite%2Fblog%2Fnatural-language-processing-with-r%2F), the evolution of technology has paved the way for innovative solutions, and one such marvel is Text-to-Speech (TTS) technology. This cutting-edge technology has various applications ranging from assistive devices to interactive storytelling.
 
@@ -159,7 +159,7 @@ After creating the application, run it on localhost to see if it's working using
 streamlit run <python file name (tts.py)>
 ```
 
-![Streamlit App](https://imgur.com/CnToXlz.png)
+![Streamlit App](https://i.imgur.com/Br3vHQp.jpg)
 
 After running the app from the terminal, you will see the web app running on the localhost as shown in the image. Now type the text and convert into the speech. Don't forget to have fun!!
 
