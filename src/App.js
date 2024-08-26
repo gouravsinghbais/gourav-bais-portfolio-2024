@@ -7,7 +7,7 @@ import BlogPost from './components/blog/BlogPost';
 const App = () => {
   return (
     <>
-      <Router  basename={process.env.PUBLIC_URL}>
+      <Router>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blog/:id" element={<BlogPost />} />
